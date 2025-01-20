@@ -14,13 +14,13 @@ Um passo a passo da série de exemplos que informam como obter um ambiente de de
 Clonar o repositório:
 
 ```bash
-git clone git@github.com:mb-data/mb-data-landingpage-sponsorship-template.git
+git clone git@github.com:mb-data/siaflite-lp.git
 ```
 
 Instalar as dependências do projeto:
 
 ```bash
-cd landingpage-sponsorship-template
+cd siaflite-lp
 
 npm install
 ```
